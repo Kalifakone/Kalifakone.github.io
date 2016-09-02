@@ -71,7 +71,7 @@ body, html {
 <!-- First Parallax Image with Logo Text -->
 <div class="bgimg-1 w3-opacity w3-display-container">
   <div class="w3-display-middle" style="white-space:nowrap;">
-    <span class="w3-center w3-padding-xlarge w3-black w3-xlarge w3-wide w3-animate-opacity">CHARLES <span class="w3-hide-small"> WEBSITE</span> </span>
+    <span class="w3-center w3-padding-xlarge w3-black w3-xlarge w3-wide w3-animate-opacity">KALIFA<span class="w3-hide-small"> WEBSITE</span> </span>
   </div>
 
 </div>
@@ -80,7 +80,7 @@ body, html {
 <div class="w3-content w3-container w3-padding-64" id="about">
   <h3 class="w3-center">ABOUT ME</h3>
   <p class="w3-center"><em>I love programming</em></p>
-  <p>"We always say" Allah remove the bad people from our lives"...But what makes you think that you're the "good one"? Maybe you were the "Bad one" in someone's life and Allah remove you from theirs." - Bill Gates</p>
+  <p>"We always say" Allah remove the bad people from our lives"...But what makes you think that you're the "good one"? Maybe you were the "Bad one" in someone's life and Allah remove you from theirs."</p>
   <div class="w3-row">
     <div class="w3-content w3-container w3-padding-64">
       <p><b>Kalifa Konneh</b></p><br>
@@ -130,9 +130,7 @@ body, html {
       <img src="Tinko.jpg" style="width:80%" onclick="onClick(this)" class="w3-hover-opacity">
     </div>
 
-    <div class="w3-col m3">
-      <img src="ROBOT.jpg" style="width:80%" onclick="onClick(this)" class="w3-hover-opacity">
-    </div>
+
 
     <div class="w3-col m3">
       <img src="RED.jpg" style="width:80%" onclick="onClick(this)" class="w3-hover-opacity">
@@ -171,7 +169,7 @@ body, html {
     </div>
     <div class="w3-col m8 w3-container w3-section">
       <div class="w3-large w3-margin-bottom">
-        <i class="fa fa-map-marker w3-hover-text-black" style="width:30px"></i> New York,NY<br>
+        <i class="fa fa-map-marker w3-hover-text-black" style="width:30px"></i> Bronx,NY<br>
         <i class="fa fa-phone w3-hover-text-black" style="width:30px"></i> Phone:6467248653<br>
         <i class="fa fa-envelope w3-hover-text-black" style="width:30px"> </i> Email:konnehkalifala@gmail.com<br>
       </div>
@@ -190,22 +188,11 @@ body, html {
   </div>
 </div>
  <ul>
-        <li><a target="_blank" href="https://www.linkedin.com/in/charles-m-240ba6124?trk=nav_responsive_tab_profile_pic"><img id="li" 
-class="icon" src="https://cdn1.iconfinder.com/data/icons/iconza-circle-social/64/697071-linkedin-128.png"></a></li>
-
-class="icon" src="http://www.easyicon.net/api/resizeApi.php?id=1176917&size=64"></a></li>
+    
 
         <li><a target="_blank" href="https://www.instagram.com/Wizkali_K52/"><img id="ig" 
-class="icon" src="http://cdn-img.easyicon.net/png/11812/1181233.gif"></a></li>
-
         <li><a target="_blank" href="https://github.com/kalifakone.github.io"><img id="gh" 
-class="icon" src="http://www.easyicon.net/api/resizeApi.php?id=1181185&size=48"></a></li>
  
- <li><a target="_blank" href="https://www.youtube.com/embed/34eE4c-B5Cg"><img id="yt" 
-class="icon" src="http://icons.iconarchive.com/icons/marcus-roberto/google-play/128/YouTube-icon.png"></a></li>
-
-
-
       </ul>
 
 <!-- Footer -->
